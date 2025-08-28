@@ -7,6 +7,7 @@
 
 ```javascript
                                           "“First, solve the problem.”"
+
 ```
 ```javascript
   about me = "Passionate about software development and always eager to learn new technologies."
